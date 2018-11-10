@@ -1,0 +1,16 @@
+#optionsBlockRight
+{
+	position:relative;
+	top:-72px
+}
+#optionsBlock
+{
+	height:122px
+}
+#reflection,#reflectionMore
+{
+	display:none
+}
+li{
+	width:90%
+}

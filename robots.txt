@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /fetchstats.php
+Disallow: /files/
+Disallow: /images/
+Disallow: /css/
+Disallow: /javascript/
+Disallow: /tsk.html
+Disallow: /php/
+Disallow: /remove.php
+Disallow: /old___/
+
